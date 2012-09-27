@@ -1,0 +1,23 @@
+total 24
+drwx------+  10 tlberglund  staff   340 Sep 27 09:36 Desktop
+drwx------+  47 tlberglund  staff  1598 Sep 10 10:22 Documents
+drwx------+  25 tlberglund  staff   850 Sep 27 07:52 Downloads
+drwx------@  38 tlberglund  staff  1292 Sep 26 08:27 Dropbox
+drwx------@  55 tlberglund  staff  1870 Aug  9 10:28 Library
+drwx------+  25 tlberglund  staff   850 Sep 27 02:43 Movies
+drwx------+   9 tlberglund  staff   306 Sep 26 12:19 Music
+drwx------   53 tlberglund  staff  1802 Jul 26 10:32 Old Personal Documents
+drwx------+  48 tlberglund  staff  1632 Sep  4 08:23 Pictures
+drwxr-xr-x+   5 tlberglund  staff   170 Jul 25 17:13 Public
+drwxr-xr-x   56 tlberglund  staff  1904 Sep 22 07:43 Purchased Software
+drwxr-xr-x    8 tlberglund  staff   272 Sep 27 08:29 Tools
+drwxr-xr-x  110 tlberglund  staff  3740 Sep  7 14:29 code
+drwxr-xr-x    3 tlberglund  staff   102 Aug 10 13:36 eclipse-workspace
+drwxr-xr-x    4 tlberglund  staff   136 Jul 26 10:03 emacs-starter-kit.git
+drwxr-xr-x   22 tlberglund  staff   748 Sep 17 03:55 github
+-rw-r--r--    1 tlberglund  staff  1224 Jul 30 06:34 old-zshrc
+-rw-r--r--    1 tlberglund  staff  5255 Sep 21 09:15 pbcopy
+drwxr-xr-x    6 tlberglund  staff   204 Jul 26 10:32 poems
+drwxr-xr-x   19 tlberglund  staff   646 Sep 22 16:09 scripts
+drwxr-xr-x   28 tlberglund  staff   952 Sep 25 09:57 timberglund.com
+drwxr-xr-x   16 tlberglund  staff   544 Jul 26 13:46 workshops
